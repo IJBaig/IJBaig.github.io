@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I am an Information Technology student (having completed five semesters) with a deep, hands-on focus on cybersecurity. I specialize in defensive security, SOC workflows, and practical threat detection. 
+I am an Information Technology student with a deep, hands-on focus on cybersecurity. I specialize in defensive security, SOC workflows, and practical threat detection. 
 
 Rather than just studying theory, I build projects from scratch and complete hands-on simulations aligned with real SOC tasks. My core focus is on bridging academic concepts with lab-based platforms and enterprise simulations to hunt threats, analyze malware, and secure network infrastructure.
 
