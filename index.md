@@ -3,7 +3,7 @@
 **Defensive Security | SOC Operations | Malware Analysis**
 
 📍 Lahore, Punjab, Pakistan  
-🔗 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ij-baig)) | 🐙 [GitHub](https://github.com/IJBaig/) | 🛡️ [TryHackMe](https://tryhackme.com/p/IJBaig)
+🔗 [LinkedIn](https://www.linkedin.com/in/ij-baig) | 🐙 [GitHub](https://github.com/IJBaig/) | 🛡️ [TryHackMe](https://tryhackme.com/p/IJBaig)
 
 ---
 
